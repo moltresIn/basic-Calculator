@@ -11,10 +11,7 @@ This basic calculator is a simple project created for fun and learning purposes.
 
 ## Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/basic-calculator.git
+1. Clone the repository.
 2. Open the index.html file in your web browser.
 3. Start performing calculation.
 
